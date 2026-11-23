@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+torch
+pymatgen
+mp-api
+jupyter
